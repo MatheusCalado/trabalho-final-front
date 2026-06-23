@@ -96,7 +96,7 @@ Foram realizados os seguintes testes:
 
 ## Links
 
-- Link do repositório: inserir após a publicação no GitHub.
+- https://github.com/MatheusCalado/trabalho-final-front
 - https://matheuscalado.github.io/trabalho-final-front/
 
 ## Contribuição dos integrantes
